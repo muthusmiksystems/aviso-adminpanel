@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "categoryId": "C001",
+    "categoryName": "Electronics",
+    "subCategoryId": "SC001",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "categoryId": "C002",
+    "categoryName": "Furniture",
+    "subCategoryId": "SC002",
+    "status": "Inactive"
+  }
+]

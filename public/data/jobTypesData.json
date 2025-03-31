@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "categoryId": "101",
+    "categoryName": "IT",
+    "title": "Software Engineer",
+    "description": "Develop and maintain software applications.",
+    "salaryRange": "$60,000 - $80,000",
+    "status": "Active",
+    "countryId": "US"
+  },
+  {
+    "id": 2,
+    "categoryId": "102",
+    "categoryName": "HR",
+    "title": "HR Manager",
+    "description": "Manage HR operations and recruitment.",
+    "salaryRange": "$50,000 - $70,000",
+    "status": "Inactive",
+    "countryId": "UK"
+  },
+  {
+    "id": 3,
+    "categoryId": "103",
+    "categoryName": "Finance",
+    "title": "Accountant",
+    "description": "Handle financial records and audits.",
+    "salaryRange": "$55,000 - $75,000",
+    "status": "Active",
+    "countryId": "CA"
+  },
+  {
+    "id": 4,
+    "categoryId": "104",
+    "categoryName": "Marketing",
+    "title": "Marketing Specialist",
+    "description": "Plan and execute marketing campaigns.",
+    "salaryRange": "$45,000 - $65,000",
+    "status": "Active",
+    "countryId": "AU"
+  },
+  {
+    "id": 5,
+    "categoryId": "105",
+    "categoryName": "Sales",
+    "title": "Sales Manager",
+    "description": "Lead the sales team to achieve targets.",
+    "salaryRange": "$70,000 - $90,000",
+    "status": "Inactive",
+    "countryId": "IN"
+  },
+  {
+    "id": 6,
+    "categoryId": "106",
+    "categoryName": "IT",
+    "title": "System Administrator",
+    "description": "Manage and maintain IT systems.",
+    "salaryRange": "$50,000 - $70,000",
+    "status": "Active",
+    "countryId": "US"
+  },
+  {
+    "id": 7,
+    "categoryId": "107",
+    "categoryName": "HR",
+    "title": "Recruiter",
+    "description": "Source and hire top talent.",
+    "salaryRange": "$40,000 - $60,000",
+    "status": "Active",
+    "countryId": "UK"
+  },
+  {
+    "id": 8,
+    "categoryId": "108",
+    "categoryName": "Finance",
+    "title": "Financial Analyst",
+    "description": "Analyze financial data and trends.",
+    "salaryRange": "$65,000 - $85,000",
+    "status": "Active",
+    "countryId": "CA"
+  },
+  {
+    "id": 9,
+    "categoryId": "109",
+    "categoryName": "Marketing",
+    "title": "Content Writer",
+    "description": "Create engaging content for campaigns.",
+    "salaryRange": "$35,000 - $55,000",
+    "status": "Inactive",
+    "countryId": "AU"
+  },
+  {
+    "id": 10,
+    "categoryId": "110",
+    "categoryName": "Sales",
+    "title": "Sales Executive",
+    "description": "Drive sales and build client relationships.",
+    "salaryRange": "$50,000 - $70,000",
+    "status": "Active",
+    "countryId": "IN"
+  },
+  {
+    "id": 11,
+    "categoryId": "111",
+    "categoryName": "IT",
+    "title": "Data Scientist",
+    "description": "Analyze and interpret complex data.",
+    "salaryRange": "$80,000 - $100,000",
+    "status": "Active",
+    "countryId": "US"
+  },
+  {
+    "id": 12,
+    "categoryId": "112",
+    "categoryName": "HR",
+    "title": "HR Assistant",
+    "description": "Assist in HR operations and tasks.",
+    "salaryRange": "$30,000 - $50,000",
+    "status": "Inactive",
+    "countryId": "UK"
+  },
+  {
+    "id": 13,
+    "categoryId": "113",
+    "categoryName": "Finance",
+    "title": "Auditor",
+    "description": "Conduct audits and ensure compliance.",
+    "salaryRange": "$60,000 - $80,000",
+    "status": "Active",
+    "countryId": "CA"
+  },
+  {
+    "id": 14,
+    "categoryId": "114",
+    "categoryName": "Marketing",
+    "title": "SEO Specialist",
+    "description": "Optimize content for search engines.",
+    "salaryRange": "$40,000 - $60,000",
+    "status": "Active",
+    "countryId": "AU"
+  },
+  {
+    "id": 15,
+    "categoryId": "115",
+    "categoryName": "Sales",
+    "title": "Business Development Manager",
+    "description": "Identify and develop new business opportunities.",
+    "salaryRange": "$75,000 - $95,000",
+    "status": "Inactive",
+    "countryId": "IN"
+  },
+  {
+    "id": 16,
+    "categoryId": "116",
+    "categoryName": "IT",
+    "title": "Network Engineer",
+    "description": "Design and maintain network infrastructure.",
+    "salaryRange": "$70,000 - $90,000",
+    "status": "Active",
+    "countryId": "US"
+  },
+  {
+    "id": 17,
+    "categoryId": "117",
+    "categoryName": "HR",
+    "title": "Training Coordinator",
+    "description": "Organize and manage employee training programs.",
+    "salaryRange": "$45,000 - $65,000",
+    "status": "Active",
+    "countryId": "UK"
+  },
+  {
+    "id": 18,
+    "categoryId": "118",
+    "categoryName": "Finance",
+    "title": "Tax Consultant",
+    "description": "Provide tax advice and planning.",
+    "salaryRange": "$55,000 - $75,000",
+    "status": "Inactive",
+    "countryId": "CA"
+  },
+  {
+    "id": 19,
+    "categoryId": "119",
+    "categoryName": "Marketing",
+    "title": "Social Media Manager",
+    "description": "Manage social media accounts and campaigns.",
+    "salaryRange": "$50,000 - $70,000",
+    "status": "Active",
+    "countryId": "AU"
+  },
+  {
+    "id": 20,
+    "categoryId": "120",
+    "categoryName": "Sales",
+    "title": "Key Account Manager",
+    "description": "Manage relationships with key clients.",
+    "salaryRange": "$80,000 - $100,000",
+    "status": "Active",
+    "countryId": "IN"
+  }
+]

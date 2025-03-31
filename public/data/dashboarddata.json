@@ -1,0 +1,103 @@
+{
+  "user": {
+    "name": "User",
+    "role": "Engineer",
+    "avatar": "/placeholder.svg?height=200&width=200",
+    "verified": true,
+    "ranking": 91,
+    "courses": 20
+  },
+  "welcomeMessage": "Welcome to Aviso",
+  "messageCount": 2,
+  "currentCourse": {
+    "title": "Fundamentals of Engineering 101",
+    "instructor": "Bessie Cooper at Vo5 company",
+    "thumbnail": "/placeholder.svg?height=400&width=600",
+    "participants": {
+      "avatars": [
+        "/placeholder.svg?height=100&width=100",
+        "/placeholder.svg?height=100&width=100",
+        "/placeholder.svg?height=100&width=100"
+      ],
+      "more": 7
+    }
+  },
+  "lessons": [
+    {
+      "id": 1,
+      "order": 1,
+      "title": "Application",
+      "status": "completed",
+      "dueIn": null,
+      "progress": null
+    },
+    {
+      "id": 2,
+      "order": 2,
+      "title": "Component",
+      "status": "in-progress",
+      "dueIn": "3 days",
+      "progress": "3.18"
+    },
+    {
+      "id": 3,
+      "order": 3,
+      "title": "Advisor Meeting",
+      "status": "upcoming",
+      "dueIn": "May 20",
+      "progress": null
+    },
+    {
+      "id": 4,
+      "order": 4,
+      "title": "Variant",
+      "status": "upcoming",
+      "dueIn": "May 26",
+      "progress": null
+    }
+  ],
+  "performance": {
+    "certificates": 6,
+    "trend": 3.63,
+    "data": [
+      { "label": "Mon", "value": 60 },
+      { "label": "Tue", "value": 80 },
+      { "label": "Wed", "value": 65 },
+      { "label": "Thu", "value": 75 },
+      { "label": "Fri", "value": 55 },
+      { "label": "Sat", "value": 70 }
+    ]
+  },
+  "tasks": {
+    "total": 26,
+    "completed": 12,
+    "trend": -2.45
+  },
+  "calendar": {
+    "currentMonth": "August",
+    "events": [
+      { "date": 8, "title": "Class" },
+      { "date": 15, "title": "Workshop" }
+    ]
+  },
+  "upcomingClasses": [
+    {
+      "title": "Build your Career",
+      "instructor": "Marvin McKinney",
+      "duration": "1h 34min",
+      "students": 191
+    },
+    {
+      "title": "Create a Career System",
+      "instructor": "Kathryn Murphy",
+      "duration": "2h 17min",
+      "students": 182
+    },
+    {
+      "title": "Master Application",
+      "instructor": "Annette Black",
+      "duration": "1h 25min",
+      "students": 214
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "firstname": "John",
+    "lastname": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "1234567890",
+    "message": "I need more information about your services.",
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "firstname": "Jane",
+    "lastname": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "9876543210",
+    "message": "Can you provide a quote for your services?",
+    "status": "Resolved"
+  },
+  {
+    "id": 3,
+    "firstname": "Alice",
+    "lastname": "Johnson",
+    "email": "alice.johnson@example.com",
+    "phone": "4567891230",
+    "message": "I have an issue with my account.",
+    "status": "In Progress"
+  },
+  {
+    "id": 4,
+    "firstname": "Bob",
+    "lastname": "Brown",
+    "email": "bob.brown@example.com",
+    "phone": "7891234560",
+    "message": "Can you help me reset my password?",
+    "status": "Pending"
+  },
+  {
+    "id": 5,
+    "firstname": "Charlie",
+    "lastname": "Davis",
+    "email": "charlie.davis@example.com",
+    "phone": "3216549870",
+    "message": "I want to cancel my subscription.",
+    "status": "Resolved"
+  },
+  {
+    "id": 6,
+    "firstname": "Emily",
+    "lastname": "Wilson",
+    "email": "emily.wilson@example.com",
+    "phone": "6549873210",
+    "message": "Do you offer discounts for bulk purchases?",
+    "status": "Pending"
+  },
+  {
+    "id": 7,
+    "firstname": "Frank",
+    "lastname": "Miller",
+    "email": "frank.miller@example.com",
+    "phone": "9873216540",
+    "message": "I need help with my order.",
+    "status": "In Progress"
+  },
+  {
+    "id": 8,
+    "firstname": "Grace",
+    "lastname": "Taylor",
+    "email": "grace.taylor@example.com",
+    "phone": "1237894560",
+    "message": "Can you provide more details about your pricing?",
+    "status": "Pending"
+  },
+  {
+    "id": 9,
+    "firstname": "Henry",
+    "lastname": "Anderson",
+    "email": "henry.anderson@example.com",
+    "phone": "7894561230",
+    "message": "I want to upgrade my plan.",
+    "status": "Resolved"
+  },
+  {
+    "id": 10,
+    "firstname": "Isabella",
+    "lastname": "Thomas",
+    "email": "isabella.thomas@example.com",
+    "phone": "4561237890",
+    "message": "Can you assist me with billing issues?",
+    "status": "In Progress"
+  }
+]

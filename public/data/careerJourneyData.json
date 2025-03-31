@@ -1,0 +1,12 @@
+{
+    "title": "We Help You with Your Career Journey",
+    "description": "Lorem ipsum dolor sit amet consectetur. Enim eros enim elit condimentum.",
+    "professionals": "300+",
+    "foundedYear": "2024",
+    "management": "$20.5B",
+    "images": {
+      "main": "/src/assets/images/careerJourneyMain.png",
+      "teamCollaboration": "/src/assets/images/careerJourney.png",
+      "creativeWork": "/src/assets/images/careerJourney(1).png"
+    }
+  }

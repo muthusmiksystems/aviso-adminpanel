@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Career Planning",
+      "description": "Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore eu fugiat.",
+      "icon": "FaBullhorn"
+    },
+    {
+      "id": 2,
+      "title": "Relocation Planning",
+      "description": "Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore eu fugiat.",
+      "icon": "FaFlagCheckered"
+    },
+    {
+      "id": 3,
+      "title": "Job Planning",
+      "description": "Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore eu fugiat.",
+      "icon": "FaHandFist"
+    },
+    {
+      "id": 4,
+      "title": "Organizations",
+      "description": "Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore eu fugiat.",
+      "icon": "ImLeaf"
+    },
+    {
+      "id": 5,
+      "title": "Schools",
+      "description": "Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore eu fugiat.",
+      "icon": "FaUser"
+    },
+    {
+      "id": 6,
+      "title": "Universities",
+      "description": "Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore eu fugiat.",
+      "icon": "FaUniversity"
+    }
+  ]
+  

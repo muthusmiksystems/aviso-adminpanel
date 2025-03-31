@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "role": "Software Engineer",
+    "location": "Lisbon, Portugal",
+    "image": "BusinessPeople",
+    "title": "From Doubt to Dream Job",
+    "quote": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur v Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "role": "UX Designer",
+    "location": "Berlin, Germany",
+    "image": "BusinessPeople",
+    "title": "Found My Creative Path",
+    "quote": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur v Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur"
+  },
+  {
+    "id": 3,
+    "name": "Alex Johnson",
+    "role": "Product Manager",
+    "location": "Toronto, Canada",
+    "image": "BusinessPeople",
+    "title": "Transformed My Career",
+    "quote": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur v Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur"
+  }
+]

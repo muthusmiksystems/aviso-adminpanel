@@ -1,0 +1,77 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'OmnesArabic';
+  src: url('./assets/fonts/OmnesArabic-Black.otf') format('opentype');
+  font-weight: 900;
+  /* Black */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OmnesArabic';
+  src: url('./assets/fonts/OmnesArabic-Bold.otf') format('opentype');
+  font-weight: 700;
+  /* Bold */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OmnesArabic';
+  src: url('./assets/fonts/OmnesArabic-ExtraLight.otf') format('opentype');
+  font-weight: 200;
+  /* Extra Light */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OmnesArabic';
+  src: url('./assets/fonts/OmnesArabic-Hairline.otf') format('opentype');
+  font-weight: 100;
+  /* Hairline (Thin) */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OmnesArabic';
+  src: url('./assets/fonts/OmnesArabic-Light.otf') format('opentype');
+  font-weight: 300;
+  /* Light */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OmnesArabic';
+  src: url('./assets/fonts/OmnesArabic-Medium.otf') format('opentype');
+  font-weight: 500;
+  /* Medium */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OmnesArabic';
+  src: url('./assets/fonts/OmnesArabic-Regular.otf') format('opentype');
+  font-weight: 400;
+  /* Regular */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OmnesArabic';
+  src: url('./assets/fonts/OmnesArabic-SemiBold.otf') format('opentype');
+  font-weight: 600;
+  /* SemiBold */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OmnesArabic';
+  src: url('./assets/fonts/OmnesArabic-Thin.otf') format('opentype');
+  font-weight: 100;
+  /* Thin */
+  font-style: normal;
+}

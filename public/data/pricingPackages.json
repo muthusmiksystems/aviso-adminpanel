@@ -1,0 +1,60 @@
+[
+  {
+    "id": "student",
+    "title": "Student Package",
+    "price": 29,
+    "duration": "/year",
+    "description": "Ideal for individuals and small families taking their first steps in financial planning",
+    "services": [
+      "Lorem ipsum dolor sit amet",
+      "Ut incididunt nostrud diam",
+      "Cursus nunc sed egestas",
+      "Tellus nunc nunc sem urna",
+      "Dui odio elementum vehicula",
+      "Pharetra vitae felis justo"
+    ],
+    "buttonText": "Select Plan",
+    "bgColor": "bg-white",
+    "textColor": "text-[#29ABE2]",
+    "priceColor": "text-[#29ABE2]"
+  },
+  {
+    "id": "business",
+    "title": "Business Package",
+    "price": 129,
+    "duration": "/year",
+    "description": "Perfect for those seeking comprehensive financial advice and personalized strategies",
+    "services": [
+      "Lorem ipsum dolor sit amet",
+      "Ut incididunt nostrud diam",
+      "Cursus nunc sed egestas",
+      "Tellus nunc nunc sem urna",
+      "Dui odio elementum vehicula",
+      "Pharetra vitae felis justo"
+    ],
+    "buttonText": "Select Plan",
+    "bgColor": "bg-white",
+    "textColor": "text-[#29ABE2]",
+    "priceColor": "text-[#29ABE2]",
+    "badge": "MOST POPULAR"
+  },
+  {
+    "id": "enterprise",
+    "title": "Enterprise Package",
+    "price": 235,
+    "duration": "/year",
+    "description": "Tailored for businesses and entrepreneurs striving for financial success and growth",
+    "services": [
+      "Lorem ipsum dolor sit amet",
+      "Ut incididunt nostrud diam",
+      "Cursus nunc sed egestas",
+      "Tellus nunc nunc sem urna",
+      "Dui odio elementum vehicula",
+      "Pharetra vitae felis justo"
+    ],
+    "buttonText": "Select Plan",
+    "bgColor": "bg-white",
+    "textColor": "text-[#29ABE2]",
+    "priceColor": "text-[#29ABE2]"
+  }
+]
